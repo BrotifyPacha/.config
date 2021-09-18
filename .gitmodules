@@ -1,3 +1,6 @@
 [submodule "nvim"]
 	path = nvim
 	url = http://github.com/brotifypacha/nvim/
+[submodule "task-warrior"]
+	path = task-warrior
+	url = http://github.com/BrotifyPacha/task-warrior
